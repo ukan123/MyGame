@@ -1,4 +1,3 @@
-import React from 'react';
 import GameApp from './game/GameApp';
 import './index.css';
 
